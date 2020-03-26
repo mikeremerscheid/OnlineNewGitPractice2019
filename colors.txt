@@ -4,3 +4,4 @@ Red
 Brown
 Yellow
 White
+Gold
